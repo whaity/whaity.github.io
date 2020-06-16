@@ -13,6 +13,17 @@
     
     
     <item>
+      <title>Google Appscript</title>
+      <link>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/posts/google-appscript/</link>
+      <pubDate>Mon, 30 Dec 2019 16:16:51 +0000</pubDate>
+      
+      <guid>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/posts/google-appscript/</guid>
+      <description>What is AppScript?
+AppScript is a serverless coding envioment that works with most* G Suite Services.
+ it currently does not work with the new version of Google Sites.  </description>
+    </item>
+    
+    <item>
       <title>Zero Trust</title>
       <link>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/posts/zero-trust/</link>
       <pubDate>Mon, 30 Dec 2019 16:16:51 +0000</pubDate>
