@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mostly Harmless</title>
+    <link>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/</link>
+    <description>Recent content on Mostly Harmless</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Mon, 30 Dec 2019 16:16:51 +0000</lastBuildDate>
+    
+	<atom:link href="http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zero Trust</title>
+      <link>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/posts/zero-trust/</link>
+      <pubDate>Mon, 30 Dec 2019 16:16:51 +0000</pubDate>
+      
+      <guid>http://mostlyharmless.iamwhaity.s3-website.eu-west-2.amazonaws.com/posts/zero-trust/</guid>
+      <description>What is Zero Trust
+In the old days, there was a port on your firewall, sometimes yellow, that was marked untrusted, and another marked trusted. Anything that was plugged in to the trusted port was trusted. The believe was that only bad people were on the untrusted side. This was not a new consept. It is basically the same idea behind castles and forts. The walls would protect the defenders of the castle.</description>
+    </item>
+    
+  </channel>
+</rss>
